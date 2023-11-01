@@ -116,6 +116,13 @@ export const data = {
         "repo":"https://github.com/jgallagher13/trailtrekker",
         "app":"https://trailtrekker-gfb2.onrender.com/"
       },
+      {
+        "image":"/images/socimage.png",
+        "name":"Annoying Socrates",
+        "description":"A MERN stack app tailored for students, fostering Socratic-style philosophical discussions that promote intellectual growth",  
+        "repo":"https://github.com/jgallagher13/annoyingSocratesClient",
+        "app":"https://annoyingsocratesclient.onrender.com/"
+      },
     ],
   }
   

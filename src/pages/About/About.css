@@ -6,13 +6,13 @@
   }
 
   .skill-icon:hover {
-    box-shadow: 0 0 20px rgba(255, 223, 0, 0.8); /* Add a glowing box shadow on hover */
+    box-shadow: 0 0 20px rgba(255, 223, 0, 0.8); 
   }
 
 .skills {
     display: grid;
-    grid-template-columns: repeat(7, 1fr); /* 4 columns */
-    grid-template-rows: repeat(2, 1fr); /* 2 rows */
+    grid-template-columns: repeat(7, 1fr); 
+    grid-template-rows: repeat(2, 1fr); 
     gap: 10px; 
   }
 
